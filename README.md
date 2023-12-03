@@ -16,9 +16,10 @@
 ---
 ## **회원가입 페이지 작업
 ##### - 회원가입
-![image](https://github.com/Shimhyeoungjune/BlueHorizon/assets/146051549/352a2e48-7187-4c22-a5fb-5d4fdf2b0d6d)
+![image](https://github.com/Shimhyeoungjune/BlueHorizon/assets/146051549/4779ffd7-35f5-4c81-963e-f8f5d6364090)
 
-
+- 아이디 중복검사시 해당ID 가 DB에 없으면 "사용가능한 아이디입니다." 메세지띄워주고, 있으면 "이미 사용중인 아이디입니다." 라는 메세지를 띄워줍니다.
+- 중복검사,유효성검사완료하고 회원가입 클릭하면 하면 DB에 새로운 데이터가 저장됩니다.
 ---
 <br>
 
