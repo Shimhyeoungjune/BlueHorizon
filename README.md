@@ -52,7 +52,9 @@
 
 ## **회원정보수정 페이지 작업
 ##### - 회원정보수정
+![image](https://github.com/Shimhyeoungjune/BlueHorizon/assets/146051549/5df58150-e1e0-42ad-9cda-c15f7cb801e5)
 
+- 새비밀번호, 핸드폰번호, 이메일란 입력시 해당ID의 DB에있는 비밀번호, 핸드폰번호, 이메일 데이터값들이 변경됩니다.
 
 ---
 <br>
