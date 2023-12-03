@@ -33,7 +33,7 @@
 
 ## **아이디찾기 페이지 작업
 ##### - 아이디찾기
-![image](https://github.com/Shimhyeoungjune/BlueHorizon/assets/146051549/18f8f081-74e8-48b7-8fd7-6fa3c3fe4e8f)
+![image](https://github.com/Shimhyeoungjune/BlueHorizon/assets/146051549/96cf5bd2-a3c3-4924-86cf-9030b47c1321)
 
 - 아이디찾기버튼 클릭시 아이디찾기 페이지 나오고  이름과 이메일을 입력해서 DB에 데이터가있으면 해당정보의 ID를 알려줍니다.
 - 데이터가 없으면 "조회결과가 없습니다." 라고 알려줍니다.
