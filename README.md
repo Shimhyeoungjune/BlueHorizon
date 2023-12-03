@@ -61,3 +61,6 @@
 
 ## **회원탈퇴 페이지 작업
 ##### - 회원탈퇴
+![image](https://github.com/Shimhyeoungjune/BlueHorizon/assets/146051549/cf2b0214-c0df-459b-a965-5432b4680984)
+
+- 회원탈퇴 클릭시 비밀번호 확인하는 팝업창이 나오고, 로그인한ID의 DB에있는 비밀번호 와 일치시 회원탈퇴 처리가됩니다.
