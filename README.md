@@ -16,6 +16,8 @@
 ---
 ## **회원가입 페이지 작업
 ##### - 회원가입
+![image](https://github.com/Shimhyeoungjune/BlueHorizon/assets/146051549/352a2e48-7187-4c22-a5fb-5d4fdf2b0d6d)
+
 
 ---
 <br>
