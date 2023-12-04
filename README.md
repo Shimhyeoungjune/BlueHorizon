@@ -14,7 +14,7 @@
 - 로그인,회원가입, 회원정보수정, 회원탈퇴
 
 ---
-## **회원가입 페이지 작업
+## 회원가입 페이지 작업
 ##### - 회원가입
 ![image](https://github.com/Shimhyeoungjune/BlueHorizon/assets/146051549/4779ffd7-35f5-4c81-963e-f8f5d6364090)
 
@@ -23,7 +23,7 @@
 ---
 <br>
 
-## **로그인 페이지 작업
+## 로그인 페이지 작업
 ##### - 로그인
 ![image](https://github.com/Shimhyeoungjune/BlueHorizon/assets/146051549/058a35d8-5e8a-49d9-945c-cfc6c8a31247)
 
@@ -31,7 +31,7 @@
 ---
 <br>
 
-## **아이디찾기 페이지 작업
+## 아이디찾기 페이지 작업
 ##### - 아이디찾기
 ![image](https://github.com/Shimhyeoungjune/BlueHorizon/assets/146051549/96cf5bd2-a3c3-4924-86cf-9030b47c1321)
 
@@ -40,7 +40,7 @@
 ---
 <br>
 
-## **비밀번호찾기 페이지 작업
+## 비밀번호찾기 페이지 작업
 ##### - 비밀번호찾기
 ![image](https://github.com/Shimhyeoungjune/BlueHorizon/assets/146051549/787e192b-f748-4da1-b05e-513ea3753845)
 
@@ -50,7 +50,7 @@
 ---
 <br>
 
-## **회원정보수정 페이지 작업
+## 회원정보수정 페이지 작업
 ##### - 회원정보수정
 ![image](https://github.com/Shimhyeoungjune/BlueHorizon/assets/146051549/5df58150-e1e0-42ad-9cda-c15f7cb801e5)
 
@@ -59,7 +59,7 @@
 ---
 <br>
 
-## **회원탈퇴 페이지 작업
+## 회원탈퇴 페이지 작업
 ##### - 회원탈퇴
 ![image](https://github.com/Shimhyeoungjune/BlueHorizon/assets/146051549/cf2b0214-c0df-459b-a965-5432b4680984)
 
