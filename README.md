@@ -9,6 +9,15 @@
 - JS
 
 ---
+## BlueHorizon DB생성관련
+##### DB zip파일
+[BlueHorizon 관련 tripteamDb생성 구문 및 관련 sql 구문.zip]
+(https://github.com/Shimhyeoungjune/BlueHorizon/files/13556713/BlueHorizon.tripteamDb.sql.zip)
+
+
+---
+
+
 ## 역활
 ##### 백엔드
 - 로그인,회원가입, 회원정보수정, 회원탈퇴
