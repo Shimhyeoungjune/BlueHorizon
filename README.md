@@ -9,8 +9,8 @@
 - JS
 
 ---
-## BlueHorizon DB생성관련
-##### DB zip파일
+## DB 테이블생성 구문 및 sql구문 관련
+##### DB(테이블/sql) zip파일
 [BlueHorizon 관련 tripteamDb생성 구문 및 관련 sql 구문.zip]
 (https://github.com/Shimhyeoungjune/BlueHorizon/files/13556713/BlueHorizon.tripteamDb.sql.zip)
 
