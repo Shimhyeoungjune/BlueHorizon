@@ -1,5 +1,6 @@
 # BlueHorizon - 2023.11 팀프로젝트
 ##### 사용기술
+- Java
 - Spring
 - MyBatis
 - MySql
